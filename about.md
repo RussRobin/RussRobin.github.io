@@ -18,12 +18,13 @@ permalink: /about/
 
 <p>
 	<font size="+2"><strong> Honors </strong></font>
-	<br>
-	Presidential Scholarship | SEU
-	<br>
-	Perfection Student Scholarship, 2021 and 2022 | SEU
-	<br>
-	Univerisity-level Merit Student | SEU	
+	<br> Presidential Scholarship | SEU
+	<br> Perfection Student Scholarship, 2021 and 2022 | SEU
+	<br> Univerisity-level Merit Student | SEU
+	<br> Presidential Scholarship | High School Affiliated to Nanjing Normal Univerisity
 </p>
-
+<p>
+	<font size="+2"><strong> Services </strong></font>
+	<br> President of SEU LabVIEW Club, 2022 to 2023
+</p>
 
