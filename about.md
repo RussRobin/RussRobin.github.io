@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 <p>
-	Download my <a href="https://github.com/RussRobin/RussRobin.github.io/blob/71c58238ec69f11e6ab7361d5990cef5c3978938/resume%20Wenxiao%20Cai.pdf" download="CV">CV</a><br>
+	Download my <a href="https://github.com/RussRobin/RussRobin.github.io/blob/73e37edecdda9fe233daded6591e95b1fd8f7d52/resume%20Wenxiao%20Cai.pdf" download="CV">CV</a><br>
 	<br>
 </p>
 
