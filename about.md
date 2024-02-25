@@ -14,11 +14,15 @@ permalink: /about/
 	I'll pursue master's degree in Stanford from 2024 to 2026.
 	<br>
 	<br>
-	I am an undergraduate student for B.S. Degree in Engineering, Automation, in Southeast University (SEU) from 2020 to 2024 (in progress).
+	I am an undergraduate student for B.S. Degree of Automation, in Southeast University(SEU) from 2020 to 2024(in progress).
 	<br> SEU GPA 3.93/4, RANK 1/111
 	<br>
 	<br>
-	I was an exchange in University of California San Diego (UCSD) from March to August, 2023.
+	I was an exchange student in University of California San Diego (UCSD) from March to August, 2023, with 4.0/4.0 GPA.
+	<br>
+	<br>
+	It's my great honor to work with Prof. Wankou Yang, Prof. Yangang Wang and Prof. Songlin Du in SEU, Prof. Mingming Gong in UniMelb, and Prof. Pengtao Xie in UC San Diego.
+
 </p>
 
 <p>
