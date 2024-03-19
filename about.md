@@ -20,14 +20,8 @@ permalink: /about/
 	<br>
 	I was an exchange student in University of California San Diego (UCSD) from March to August, 2023, with 4.0/4.0 GPA.
 	<br>
-	<br>
-	It's my great honor to work with Prof. Wankou Yang, Prof. Yangang Wang and Prof. Songlin Du in SEU, Prof. Mingming Gong in UniMelb, and Prof. Pengtao Xie in UC San Diego.
 </p>
 
-<p>
-	<font size="+2"><strong> Internship </strong></font>
-	<br> I'm working as a research intern in Beijing Academy of Artificial Intellignece(BAAI) 
-</p>
 
 <p>
 	<font size="+2"><strong> Services </strong></font>
