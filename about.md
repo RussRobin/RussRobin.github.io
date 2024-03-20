@@ -3,10 +3,10 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-<p>
-	Download my <a href="https://github.com/RussRobin/RussRobin.github.io/blob/7729c6298754b8077f3a4c466fc79e1f14428af1/resume%20Wenxiao%20Cai.pdf" download="CV">CV</a><br>
+<!-- <p>
+	Download my <a href="" download="CV">CV</a><br>
 	<br>
-</p>
+</p> -->
 
 <p>
 	<font size="+2"><strong>Educational Background</strong></font>
