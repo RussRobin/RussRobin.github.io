@@ -11,10 +11,10 @@ permalink: /about/
 <p>
 	<font size="+2"><strong>Educational Background</strong></font>
 	<br>
-	I'll pursue master's degree in Stanford from 2024 to 2026.
+	I'm pursuing master's degree in Stanford, from 2024 to 2026.
 	<br>
 	<br>
-	I am an undergraduate student for B.S. Degree of Automation, in Southeast University(SEU) from 2020 to 2024(in progress).
+	I received B.S. Degree of Automation, in Southeast University from 2020 to 2024.
 	<br> SEU GPA 3.93/4, RANK 1/111
 	<br>
 	<br>
@@ -25,7 +25,7 @@ permalink: /about/
 
 <p>
 	<font size="+2"><strong> Services </strong></font>
-	<br> Reviewer for NeurIPS 23, ICLR 24, ICML 24, ECCV 24. 
+	<br> Reviewer for NeurIPS, NeurIPS D&B tracj, ICLR, ICML, ECCV and AAAI. 
 	<br> President of SEU LabVIEW Club, 2022 to 2023.
 </p>
 
