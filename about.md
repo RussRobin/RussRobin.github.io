@@ -25,7 +25,7 @@ permalink: /about/
 
 <p>
 	<font size="+2"><strong> Services </strong></font>
-	<br> Reviewer for NeurIPS, NeurIPS D&B tracj, ICLR, ICML, ECCV and AAAI. 
+	<br> Reviewer for NeurIPS, NeurIPS D&B tracj, ICLR, ICML, ECCV, AAAI, ICRA and TNNLS. 
 	<br> President of SEU LabVIEW Club, 2022 to 2023.
 </p>
 
