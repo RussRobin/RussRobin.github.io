@@ -11,21 +11,21 @@ permalink: /about/
 <p>
 	<font size="+2"><strong>Educational Background</strong></font>
 	<br>
-	I'm pursuing master's degree in Stanford, from 2024 to 2026.
+	I'm pursuing master's degree in Stanford EE, from 2024 to 2026.
 	<br>
 	<br>
 	I received B.S. Degree of Automation, in Southeast University from 2020 to 2024.
 	<br> SEU GPA 3.93/4, RANK 1/111
 	<br>
 	<br>
-	I was an exchange student in University of California San Diego (UCSD) from March to August, 2023, with 4.0/4.0 GPA.
+	I was an exchange student in University of California San Diego (UCSD) in 2023, with 4.0/4.0 GPA.
 	<br>
 </p>
 
 
 <p>
 	<font size="+2"><strong> Services </strong></font>
-	<br> Reviewer for NeurIPS, NeurIPS D&B tracj, ICLR, ICML, ECCV, AAAI, ICRA and TNNLS. 
+	<br> Reviewer for NeurIPS, NeurIPS D&B track, ICLR, ICML, ECCV, AAAI, ICRA and TNNLS. 
 	<br> President of SEU LabVIEW Club, 2022 to 2023.
 </p>
 
