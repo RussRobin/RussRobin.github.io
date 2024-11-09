@@ -11,17 +11,24 @@ permalink: /about/
 <p>
 	<font size="+2"><strong>Educational Background</strong></font>
 	<br>
-	I'm pursuing master's degree in Stanford EE, from 2024 to 2026.
+	Currently pursuing master's degree in Stanford EE, 2024 to 2026, Supervised by Prof. Tom Lee.
 	<br>
 	<br>
-	I received B.S. Degree of Automation, in Southeast University from 2020 to 2024.
+	B.S. Degree of Automation, in Southeast University, 2020 to 2024, supervised by Prof. Wankou Yang.
 	<br> SEU GPA 3.93/4, RANK 1/111
 	<br>
 	<br>
-	I was an exchange student in University of California San Diego (UCSD) in 2023, with 4.0/4.0 GPA.
+	Exchange student in University of California San Diego (UCSD) in 2023, with 4.0/4.0 GPA, supervised by Prof. Pengtao Xie.
+	<br>
+	<br>
+	Exchange student in University of California Los Angeles (UCLA) in 2023, with 4.0/4.0 GPA.
 	<br>
 </p>
 
+<p>
+	<font size="+2"><strong> Internship </strong></font>
+	<br> Intern in Shanghai Jiao Tong University in 2024, supervised by Prof. Bo Zhao。
+</p>
 
 <p>
 	<font size="+2"><strong> Services </strong></font>
