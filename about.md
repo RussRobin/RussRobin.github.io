@@ -11,11 +11,10 @@ permalink: /about/
 <p>
 	<font size="+2"><strong>Educational Background</strong></font>
 	<br>
-	Currently pursuing master's degree in Stanford EE, 2024 to 2026, Supervised by Prof. Tom Lee.
+	Currently pursuing master's degree in Stanford EE, 2024 to 2026, supervised by Prof. Tom Lee.
 	<br>
 	<br>
-	B.S. Degree of Automation, in Southeast University, 2020 to 2024, supervised by Prof. Wankou Yang.
-	<br> SEU GPA 3.93/4, RANK 1/111
+	B.S. Degree of Automation in Southeast University, 2020 to 2024, with 3.93/4 GPA (RANK 1/111), supervised by Prof. Wankou Yang.
 	<br>
 	<br>
 	Exchange student in University of California San Diego (UCSD) in 2023, with 4.0/4.0 GPA, supervised by Prof. Pengtao Xie.
