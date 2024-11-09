@@ -27,7 +27,7 @@ permalink: /about/
 
 <p>
 	<font size="+2"><strong> Internship </strong></font>
-	<br> Intern in Shanghai Jiao Tong University in 2024, supervised by Prof. Bo Zhao。
+	<br> Intern in Shanghai Jiao Tong University in 2024, supervised by Prof. Bo Zhao.
 </p>
 
 <p>
