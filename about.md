@@ -27,6 +27,7 @@ permalink: /about/
 <p>
 	<font size="+2"><strong> Internship </strong></font>
 	<br> Intern in Shanghai Jiao Tong University in 2024, supervised by Prof. Bo Zhao.
+	<br> Research Assistant in The University of Melbourne in 2023-2024, supervised by Prof. Mingming Gong.
 </p>
 
 <p>
