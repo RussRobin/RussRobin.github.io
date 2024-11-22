@@ -20,7 +20,7 @@ permalink: /about/
 	Exchange student in University of California San Diego (UCSD) in 2023, with 4.0/4.0 GPA, supervised by Prof. Pengtao Xie.
 	<br>
 	<br>
-	Exchange student in University of California Los Angeles (UCLA) in 2023, with 4.0/4.0 GPA.
+	Exchange student in University of California Los Angeles (UCLA) in 2021, with 4.0/4.0 GPA.
 	<br>
 </p>
 
