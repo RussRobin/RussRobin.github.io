@@ -32,7 +32,7 @@ permalink: /about/
 
 <p>
 	<font size="+2"><strong> Services </strong></font>
-	<br> Reviewer for NeurIPS, NeurIPS D&B track, ICLR, ICML, CVPR, ECCV, AAAI, ICRA, Neural Networks and TNNLS. 
+	<br> Reviewer for NeurIPS, ICLR, ICML, CVPR, ECCV, AAAI, ICRA, Neural Networks, TNNLS, NeurIPS D&B track, and ICLR DeLTa Workshop. 
 	<br> President of SEU LabVIEW Club, 2022 to 2023.
 </p>
 
