@@ -26,8 +26,9 @@ permalink: /about/
 
 <p>
 	<font size="+2"><strong> Internship </strong></font>
-	<br> Intern in Shanghai Jiao Tong University in 2024, supervised by Prof. Bo Zhao.
-	<br> Research Assistant in The University of Melbourne in 2023-2024, supervised by Prof. Mingming Gong.
+	<br> Research intern in Beijing Academy of Artificial Intelligence (BAAI) and Shanghai Jiao Tong University in 2024, supervised by Prof. Bo Zhao.
+	<br> Research assistant in The University of Melbourne in 2023-2024, supervised by Prof. Mingming Gong.
+	<br> Visiting student and research assistant in UC San Diego in 2023, supervised by Prof. Pengtao Xie.
 </p>
 
 <p>
